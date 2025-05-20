@@ -1,4 +1,6 @@
-[
+
+{
+    "favorites":[
     {
         "id": "1",
         "name": "Airpods",
@@ -91,3 +93,4 @@
         "description": "High-performance wireless noise cancelling headphones"
     }
 ]
+}
